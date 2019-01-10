@@ -1,2 +1,12 @@
 {
+  "player-name": "Andy Newton",
+  "race": "High Elf",
+  "class": "Sorcerer",
+  "level": 1,
+  "attributes": {
+    "strength": 13
+  },
+  "attrib-modifiers" : {
+    "strength": 1
+  }
 }
